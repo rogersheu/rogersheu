@@ -12,7 +12,9 @@ https://scholar.google.com/citations?user=qJX20GcAAAAJ
 For some of my other work and social media, feel free to check out the following.
 
 Music arrangements/transcriptions: https://musescore.com/user/12628181
+
 Facebook: rogersheu
+
 Instagram/Twitter: adequatepianist
 
 Email: rogersheu92@gmail.com
