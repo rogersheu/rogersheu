@@ -9,7 +9,13 @@ It has a C-like programming language, features incredibly modular and aesthetica
 If you use any of the code for scientific purposes, please at least acknowledge me by including a citation to one of my papers or by acknowledging the use of my code.
 https://scholar.google.com/citations?user=qJX20GcAAAAJ
 
-You may contact me at rogersheu92@gmail.com
+For some of my other work and social media, feel free to check out the following.
+
+Music arrangements/transcriptions: https://musescore.com/user/12628181
+Facebook: rogersheu
+Instagram/Twitter: adequatepianist
+
+Email: rogersheu92@gmail.com
 
 <!---
 rogersheu/rogersheu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
