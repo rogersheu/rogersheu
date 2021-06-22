@@ -9,15 +9,11 @@ It has a C-like programming language, features incredibly modular and aesthetica
 If you use any of the code for scientific purposes, please at least acknowledge me by including a citation to one of my papers or by acknowledging the use of my code.
 https://scholar.google.com/citations?user=qJX20GcAAAAJ
 
-For some of my other work and social media, feel free to check out the following.
-
-Music arrangements/transcriptions: https://musescore.com/user/12628181
-
-Facebook: rogersheu
-
-Instagram/Twitter: adequatepianist
+To contact me or to see some of my other work, consult the following.
 
 Email: rogersheu92@gmail.com
+
+Music arrangements/transcriptions: https://musescore.com/user/12628181
 
 <!---
 rogersheu/rogersheu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
