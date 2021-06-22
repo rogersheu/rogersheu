@@ -1,4 +1,4 @@
-Hello, my name is Roger. Welcome to my Github page!
+Hello, and welcome to my Github page!
 
 I would like to innovate on existing data science modeling methods and/or apply such methods to real and pressing questions in technology.
 
