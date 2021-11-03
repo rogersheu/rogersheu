@@ -1,13 +1,24 @@
+***Currently seeking data scientist, data analyst, or data engineering job.***
+
 Hello, and welcome to my Github page!
 
-I would like to innovate on existing data science modeling methods and/or apply such methods to real and pressing questions in technology.
-
 My work until now (as of mid-2021) has focused on automated processing of mass spectral data for atmospheric chemistry. 
-As is standard in the field, most of the code is written in Igor Pro, which is a scientific data analysis software that serves a similar purpose to MATLAB.
-It has a C-like programming language, features incredibly modular and aesthetically-pleasing figure creation, and can be controlled using either the command line or by using the interactive GUI. If you are here to get an idea of my coding capability and you are familiar with Igor Pro syntax, please take a look at the TOF-analysis-code repository.
+The field of atmospheric chemistry is currently split between Igor Pro, which is a scientific data analysis software that serves a similar purpose to MATLAB, and R/Python. Though the field has trended away from Igor Pro in recent years, a vast majority of researchers still use it because of the wealth of packages and software that were already developed in its environment for a variety of field-standard instrumentation.
 
-If you use any of the code for scientific purposes, please at least acknowledge me by including a citation to one of my papers or by acknowledging the use of my code.
-https://scholar.google.com/citations?user=qJX20GcAAAAJ
+Igor Pro has a C-like programming language, features incredibly modular and aesthetically-pleasing figure creation, and can be controlled using either the command line or by using the interactive GUI. If you are here to get an idea of my coding capability and you are familiar with Igor Pro syntax, please take a look at the TOF-analysis-code repository. If you are not familiar with Igor Pro, that's fine! Feel free to look at the ```README.md``` for some examples.
+
+If you use the code here for scientific purposes, please at least acknowledge me by including a citation to one of my papers or by acknowledging the use of my code.
+https://scholar.google.com/citations?user=qJX20GcAAAAJ.
+
+Publications (PDFs available upon request):
+
+* Sheu, et al., 2021, *in review, Science Advances* 
+* Filippi, et al., 2021, *in review, Environmental Science: Atmospheres*
+* Sheu, et al., 2021, *Environmental Science & Technology* https://pubs.acs.org/doi/10.1021/acs.est.1c01337
+* Sheu, et al., 2020, *Science Advances* https://www.science.org/doi/10.1126/sciadv.aay4109
+* Ditto, et al., 2019, *Environmental Science & Technology* https://pubs.acs.org/doi/abs/10.1021/acs.est.9b02664
+* Khare, et al., 2018, *Journal of Chromatography A* https://www.sciencedirect.com/science/article/pii/S0021967319302882
+* Sheu, et al., 2018, *Journal of Chromatography A* https://www.sciencedirect.com/science/article/pii/S0021967318311610
 
 To contact me or to see some of my other work, consult the following.
 
