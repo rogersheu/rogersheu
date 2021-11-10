@@ -2,6 +2,13 @@
 
 Hello, and welcome to my Github page!
 
+Non-Atmospheric Chemistry Programming
+==============
+Contributed to Synapse: Matrix homeserver, an open-source communication platform.
+https://github.com/matrix-org/synapse/pull/11157
+
+Scientific Work
+==============
 My work until now (as of mid-2021) has focused on automated processing of mass spectral data for atmospheric chemistry. 
 The field of atmospheric chemistry is currently split between Igor Pro, which is a scientific data analysis software that serves a similar purpose to MATLAB, and R/Python. Though the field has trended away from Igor Pro in recent years, a vast majority of researchers still use it because of the wealth of packages and software that were already developed in its environment for a variety of field-standard instrumentation.
 
@@ -11,6 +18,7 @@ If you use the code here for scientific purposes, please at least acknowledge me
 https://scholar.google.com/citations?user=qJX20GcAAAAJ.
 
 Publications (PDFs available upon request):
+-------------------
 
 * Sheu, et al., 2021, *in review, Science Advances* 
 * Filippi, et al., 2021, *in review, Environmental Science: Atmospheres*
