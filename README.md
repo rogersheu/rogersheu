@@ -4,7 +4,7 @@ Hello, and welcome to my Github page!
 
 Non-Atmospheric Chemistry Programming
 ==============
-Contributed to Synapse: Matrix homeserver, an open-source communication platform.
+Contributed to Synapse: Matrix homeserver. Matrix is an "open standard and communication protocol for real-time communication."
 https://github.com/matrix-org/synapse/pull/11157
 
 Scientific Work
