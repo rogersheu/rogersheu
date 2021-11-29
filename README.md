@@ -1,4 +1,4 @@
-***Currently seeking data scientist, data analyst, or data engineering positions***
+***Currently seeking data scientist, data analyst, data engineering, statistician, or similar positions***
 
 Hello, and welcome to my Github page!
 
