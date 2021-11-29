@@ -14,9 +14,9 @@ Scientific Work
 My work until now (as of mid-2021) has focused on automated processing of mass spectral data for atmospheric chemistry. 
 The field of atmospheric chemistry is currently split between Igor Pro, which is a scientific data analysis software that serves a similar purpose to MATLAB, and R/Python. Though the field has trended away from Igor Pro in recent years, a vast majority of researchers still use it because of the wealth of packages and software that were already developed in its environment for a variety of field-standard instrumentation.
 
-Igor Pro has a C-like programming language, features incredibly modular and aesthetically-pleasing figure creation, and can be controlled using either the command line or by using the interactive GUI. If you are here to get an idea of my coding capability and you are familiar with Igor Pro syntax, please take a look at the TOF-analysis-code repository. If you are not familiar with Igor Pro, that's fine! Feel free to look at the ```README.md``` for some examples.
+Igor Pro has a C-like programming language, features incredibly modular and aesthetically-pleasing figure creation, and can be controlled using either the command line or by using the interactive GUI. If you are here to get an idea of my coding capability and you are familiar with Igor Pro syntax, please take a look at rogersheu/TOF-analysis-code.
 
-If you use the code here for scientific purposes, please at least acknowledge me by including a citation to one of my papers or by acknowledging the use of my code.
+If you use the code here for academic (scientific publishing) purposes, please at least acknowledge me by including a citation to one of my papers or by acknowledging the use of my code.
 https://scholar.google.com/citations?user=qJX20GcAAAAJ.
 
 Publications (PDFs available upon request):
