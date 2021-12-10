@@ -4,7 +4,7 @@ Hello, and welcome to my Github page!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogersheu&theme=dark)
 
-Non-Atmospheric Chemistry Programming
+Software Development
 ==============
 Contributed to Synapse: Matrix homeserver. Matrix is an "open standard and communication protocol for real-time communication."
 https://github.com/matrix-org/synapse/pull/11157
