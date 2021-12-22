@@ -9,6 +9,27 @@ Software Development
 Contributed to Synapse: Matrix homeserver. Matrix is an "open standard and communication protocol for real-time communication."
 https://github.com/matrix-org/synapse/pull/11157
 
+Data Science Portfolio
+===============
+[NBA ML Predictions](https://github.com/rogersheu/NBA-ML-Predictions)
+---------
+
+| Python (scikit-learn, pandas, web scraping with BeautifulSoup) | R (RStudio, visualization using dplyr, ggplot2) | SQL (SQLite3, DBeaver)|
+--- | --- | ---
+
+Includes training, validation, and testing of random forests, SVM, MLP, and XGBoost models, bundled up in a nice single program that can be run daily to get an updated perspective on All-Star candidacies.
+
+[Three Point Progression](https://user-images.githubusercontent.com/78449574/147013292-e74f2e64-fb3e-47f7-a5ab-751796399167.png)
+----------
+
+Using data obtained from scraping for the NBA ML Predictions repository, I plotted individual players' three point progression by year and by age. A [Tableau visualization](https://public.tableau.com/app/profile/roger3881/viz/NBA3PTProgression/ByYearandByAge) shows players who have made at least 1500 3's. Clicking on a player's name allows the user to see that player's progression in particular. In the graph with year on the x-axis, player line colors change as they get older.
+
+
+[Pokemon GO Data](https://github.com/rogersheu/Pokemon-GO-Data)
+----------
+
+Scraping of data using Python (pandas, BeautifulSoup). Populated CSVs and exported those to Tableau. Some examples of Tableau visualizations include [Move Sets](https://public.tableau.com/app/profile/roger3881/viz/PokemonGoAllPossibleMovesets/UltraLeague2500CP) and [Base Stats](https://public.tableau.com/app/profile/roger3881/viz/PokemonStats_16360888246720/ATKVHP).
+
 Scientific Work
 ==============
 My work until now (as of mid-2021) has focused on automated processing of mass spectral data for atmospheric chemistry. 
