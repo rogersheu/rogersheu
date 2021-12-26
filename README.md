@@ -19,7 +19,7 @@ Data Science Portfolio
 
 Includes training, validation, and testing of random forests, SVM, MLP, and XGBoost models, bundled up in a nice single program that can be run daily to get an updated perspective on All-Star candidacies.
 
-[Three Point Progression](https://user-images.githubusercontent.com/78449574/147013292-e74f2e64-fb3e-47f7-a5ab-751796399167.png)
+[Three Point Progression](https://user-images.githubusercontent.com/78449574/147013292-e74f2e64-fb3e-47f7-a5ab-751796399167.png) (links to Tableau)
 ----------
 
 Using data obtained from scraping for the NBA ML Predictions repository, I plotted individual players' three point progression by year and by age. A [Tableau visualization](https://public.tableau.com/app/profile/roger3881/viz/NBA3PTProgression/ByYearandByAge) shows players who have made at least 1500 3's. Clicking on a player's name allows the user to see that player's progression in particular. In the graph with year on the x-axis, player line colors change as they get older.
