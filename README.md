@@ -14,7 +14,7 @@ Data Science Portfolio
 [NBA ML Predictions](https://github.com/rogersheu/NBA-ML-Predictions)
 ---------
 
-| Python (scikit-learn, pandas, web scraping with BeautifulSoup) | R (RStudio, visualization using dplyr, ggplot2) | SQL (SQLite3, DBeaver)|
+| Python (scikit-learn, pandas, web scraping with BeautifulSoup/Selenium) | R (RStudio, visualization using tidyverse) | SQL (SQLite3, DBeaver)|
 --- | --- | ---
 
 Includes training, validation, and testing of random forests, SVM, MLP, and XGBoost models, bundled up in a nice single program that can be run daily to get an updated perspective on All-Star candidacies.
