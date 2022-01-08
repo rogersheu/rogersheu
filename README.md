@@ -4,11 +4,6 @@ Hello, and welcome to my Github page!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogersheu&theme=dark)
 
-Software Development
-==============
-Contributed to Synapse: Matrix homeserver. Matrix is an "open standard and communication protocol for real-time communication."
-https://github.com/matrix-org/synapse/pull/11157
-
 Data Science Portfolio
 ===============
 [NBA ML Predictions](https://github.com/rogersheu/NBA-ML-Predictions)
@@ -33,6 +28,12 @@ Using data obtained from scraping for the NBA ML Predictions repository, I plott
 ----------
 
 Scraping of data using Python (pandas, BeautifulSoup). Populated CSVs and exported those to Tableau. Some examples of Tableau visualizations include [Move Sets](https://public.tableau.com/app/profile/roger3881/viz/PokemonGoAllPossibleMovesets/UltraLeague2500CP) and [Base Stats](https://public.tableau.com/app/profile/roger3881/viz/PokemonStats_16360888246720/ATKVHP).
+
+Software Development
+==============
+Contributed to Synapse: Matrix homeserver. Matrix is an "open standard and communication protocol for real-time communication."
+https://github.com/matrix-org/synapse/pull/11157
+
 
 Scientific Work
 ==============
