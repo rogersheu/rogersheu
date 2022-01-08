@@ -48,8 +48,8 @@ https://scholar.google.com/citations?user=qJX20GcAAAAJ.
 Publications (PDFs available upon request):
 -------------------
 
-* Sheu, et al., 2021, *in review, Science Advances* 
-* Filippi, et al., 2021, *in review, Environmental Science: Atmospheres*
+* Sheu, et al., 2021, *in review* 
+* Filippi, et al., 2021, *Royal Society of Chemistry, Environmental Science: Atmospheres* https://pubs.rsc.org/en/content/articlelanding/2022/ea/d1ea00075f
 * Sheu, et al., 2021, *Environmental Science & Technology* https://pubs.acs.org/doi/10.1021/acs.est.1c01337
 * Sheu, et al., 2020, *Science Advances* https://www.science.org/doi/10.1126/sciadv.aay4109
 * Ditto, et al., 2019, *Environmental Science & Technology* https://pubs.acs.org/doi/abs/10.1021/acs.est.9b02664
