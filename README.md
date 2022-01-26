@@ -17,7 +17,7 @@ Includes training, validation, and testing of random forests, SVM, MLP, and XGBo
 [Three Point Progression](https://public.tableau.com/app/profile/roger3881/viz/NBA3PTProgression-ActivePlayers/ChasingCurry)
 ----------
 
-Using data obtained from scraping for the NBA ML Predictions repository, I plotted individual players' three point progression by year and by age. A [Tableau visualization](https://public.tableau.com/app/profile/roger3881/viz/NBA3PTProgression-ActivePlayers/ChasingCurry) shows players who have made at least 1500 3's. Clicking on a player's name allows the user to see that player's progression in particular. In the graph with year on the x-axis, player line colors change as they get older.
+Using data obtained from scraping for the NBA ML Predictions repository, I plotted individual players' three point progression by year and by age. A [Tableau visualization](https://public.tableau.com/app/profile/roger3881/viz/NBA3PTProgression-ActivePlayers/ChasingCurry) shows how the recent three point revolution has changed and whether anyone can catch Stephen Curry, the preeminent shooter in NBA history.
 
 <p align="center" width="100%">
     <img width="75%" src="https://user-images.githubusercontent.com/78449574/149909823-787f6ab7-67ef-4ec5-9a81-a469e5ce32da.png">
