@@ -34,6 +34,8 @@ Software Development
 Contributed to Synapse: Matrix homeserver. Matrix is an "open standard and communication protocol for real-time communication."
 https://github.com/matrix-org/synapse/pull/11157
 
+Changed a few lines of code to specify which platforms and versions can send a read receipt with an empty message body. Also wrote in some unit tests to ensure complicity. Went through standard code review.
+
 
 Scientific Work
 ==============
