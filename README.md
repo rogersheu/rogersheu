@@ -56,13 +56,12 @@ Publications (PDFs available upon request):
 * Khare, et al., 2018, *Journal of Chromatography A* https://www.sciencedirect.com/science/article/pii/S0021967319302882
 * Sheu, et al., 2018, *Journal of Chromatography A* https://www.sciencedirect.com/science/article/pii/S0021967318311610
 
-To contact me or to see some of my other work, consult the following.
+***Open to learning more about available Data Scientist, ML Engineer, and similar positions.***
 
-Email: rogersheu92@gmail.com
+LinkedIn: https://www.linkedin.com/in/roger-sheu/ Resume available upon request. 
 
 Music arrangements/transcriptions: https://musescore.com/user/12628181
 
-***Open to learning more about available Data Scientist, ML Engineer, and similar positions.***
 
 <!---
 rogersheu/rogersheu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
