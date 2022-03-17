@@ -1,5 +1,3 @@
-***Currently seeking data scientist, data analyst, data engineering, statistician, or similar positions***
-
 Hello, and welcome to my Github page!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogersheu&theme=dark)
@@ -63,6 +61,8 @@ To contact me or to see some of my other work, consult the following.
 Email: rogersheu92@gmail.com
 
 Music arrangements/transcriptions: https://musescore.com/user/12628181
+
+***Open to learning more about open data scientist, ML engineer, and similar positions***
 
 <!---
 rogersheu/rogersheu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
