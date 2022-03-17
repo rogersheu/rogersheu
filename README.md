@@ -62,7 +62,7 @@ Email: rogersheu92@gmail.com
 
 Music arrangements/transcriptions: https://musescore.com/user/12628181
 
-***Open to learning more about open data scientist, ML engineer, and similar positions***
+***Open to learning more about available data scientist, ML engineer, and similar positions***
 
 <!---
 rogersheu/rogersheu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
