@@ -49,13 +49,13 @@ https://scholar.google.com/citations?user=2-rLaTEAAAAJ&hl=en
 Publications (PDFs available upon request):
 -------------------
 
-* Sheu, et al., 2021, *in review* 
-* Filippi, et al., 2021, *Royal Society of Chemistry, Environmental Science: Atmospheres* https://pubs.rsc.org/en/content/articlelanding/2022/ea/d1ea00075f
-* Sheu, et al., 2021, *Environmental Science & Technology* https://pubs.acs.org/doi/10.1021/acs.est.1c01337
-* Sheu, et al., 2020, *Science Advances* https://www.science.org/doi/10.1126/sciadv.aay4109
-* Ditto, et al., 2019, *Environmental Science & Technology* https://pubs.acs.org/doi/abs/10.1021/acs.est.9b02664
-* Khare, et al., 2018, *Journal of Chromatography A* https://www.sciencedirect.com/science/article/pii/S0021967319302882
-* Sheu, et al., 2018, *Journal of Chromatography A* https://www.sciencedirect.com/science/article/pii/S0021967318311610
+* [Sheu, et al., 2022, *Royal Society of Chemistry, Environmental Science: Atmospheres*](https://pubs.rsc.org/en/content/articlelanding/2022/EA/D1EA00107H)
+* [Filippi, et al., 2021, *Royal Society of Chemistry, Environmental Science: Atmospheres*](https://pubs.rsc.org/en/content/articlelanding/2022/ea/d1ea00075f)
+* [Sheu, et al., 2021, *Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.1c01337)
+* [Sheu, et al., 2020, *Science Advances*](https://www.science.org/doi/10.1126/sciadv.aay4109)
+* [Ditto, et al., 2019, *Environmental Science & Technology*](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b02664)
+* [Khare, et al., 2018, *Journal of Chromatography A*](https://www.sciencedirect.com/science/article/pii/S0021967319302882)
+* [Sheu, et al., 2018, *Journal of Chromatography A*](https://www.sciencedirect.com/science/article/pii/S0021967318311610)
 
 ***Open to learning more about available Data Scientist, ML Engineer, and similar positions.***
 
